@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sindicat007
-- 👀 I’m interested in JS, React, 
-- 🌱 I’m currently learning NODEjs,php,
+- 👋 @Sindicat007
+- 👀 I’m interested in Java, JS, React, 
+- 🌱 I’m currently learning Java, NODEjs,
 - 💞️ I’m looking to collaborate on Web Designer
 - 📫 How to reach me ...
 
